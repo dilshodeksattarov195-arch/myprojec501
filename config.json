@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendncrypt",
+        "uuid": 1840674,
+        "checksum": "jhon53"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
